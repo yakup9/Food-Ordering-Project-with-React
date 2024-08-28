@@ -15,6 +15,7 @@ Welcome to the Food Ordering Project with React! This project is a responsive an
 - **JavaScript (JS)**: The primary programming language used for the logic and functionality of the application.
 - **React**: Utilized for building the user interface and managing component-based architecture.
 - **HTML/CSS**: For structuring and styling the web pages to ensure a visually appealing design.
+- **MongoDB**: As the database solution for storing and managing application data efficiently.
 - **GitHub**: Hosting platform for version control and project collaboration.
 
 ### Deployment:
